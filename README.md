@@ -1,2 +1,2 @@
-# Airfoil-Self-Noice-Prediction
+# Airfoil-Self-Noise-Prediction
 
