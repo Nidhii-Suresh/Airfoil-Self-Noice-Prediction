@@ -8,11 +8,11 @@
 
 ## Features 
 
-1. Frequency, in Hertzs.
-2. Angle of attack, in degrees.
-3. Chord length, in meters.
-4. Free-stream velocity, in meters per second.
-5. Suction side displacement thickness, in meters.
+* Frequency, in Hertzs.
+* Angle of attack, in degrees.
+* Chord length, in meters.
+* Free-stream velocity, in meters per second.
+* Suction side displacement thickness, in meters.
 
 ## Target
 Scaled sound pressure level, in decibels.
